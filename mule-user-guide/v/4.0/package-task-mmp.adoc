@@ -25,4 +25,3 @@ When packaging your application using the `-DattachMuleSources`, the packager ad
 
 * link:/mule-user-guide/v/4.0/add-mmp-task[To Add the Mule Maven Plugin to a Project]
 * link:/mule-user-guide/v/4.0/application-structure-reference[Application Structure Reference]
-* link:/mule-user-guide/v/4.0/package-structure-reference[Package Structure Reference]
